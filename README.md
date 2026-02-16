@@ -1,44 +1,62 @@
-# Hi there, I'm Diogo Carvalho! 👋
-### Computer Engineer | Edge AI & Industrial Observability Specialist
+# Hi, I'm Diogo Carvalho 👋
+### Computer Engineer | Critical Infrastructure & Reliability Engineering
 
-I am a Computer Engineer (Class of 2025) bridging the gap between **Operational Technology (OT)** and **Modern Software Engineering**. My focus is on building robust, scalable solutions for critical environments, from Edge AI surveillance to large-scale infrastructure monitoring.
+Computer Engineer focused on designing and operating reliable systems in mission-critical environments. 
 
-🌍 **Base:** Brazil (Open to Relocation/Remote)
-🚀 **Focus:** Industrial Automation, Computer Vision, Reliability Engineering (SRE).
+My experience bridges **Operational Technology (OT)** and **modern software engineering**, with hands-on work in large-scale infrastructure monitoring, Edge Computing, and distributed systems.
 
----
+Currently working with monitoring and reliability of 400+ distributed critical assets, applying observability principles and automation to reduce operational risk and improve incident response.
 
-### 🛠️ Technical Arsenal
-
-| Core Stack | Observability & Infra | Tools & OS |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![Zabbix](https://img.shields.io/badge/Zabbix-D60000?logo=zabbix&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+🌍 Based in Brazil  
+🚀 Focus Areas: Critical Infrastructure | Industrial Monitoring | Reliability Engineering | Edge Computing  
 
 ---
 
-### 📂 Engineering Case Studies (Proprietary Projects)
+## 🛠 Technical Stack
 
-Since my work involves proprietary intellectual property and critical security systems, I cannot share the source code. However, I have documented the **architecture, challenges, and solutions** below:
+### Core Engineering
+- Python (FastAPI, automation scripts)
+- APIs & integrations
+- Distributed systems fundamentals
 
-#### 1️⃣ [Sentrio: Edge AI Surveillance System](./docs/sentrio-case-study.md)
-* **The Challenge:** Automating threat detection in industrial zones without relying on human vigilance.
-* **The Solution:** A microservices-based architecture using **YOLO (Computer Vision)** and **FastAPI** to process RTSP streams in real-time.
-* **Tech:** Python, Docker, OpenCV, PostgreSQL.
+### Observability & Reliability
+- Grafana
+- Prometheus
+- Zabbix
+- Incident management (SLA-driven environments)
+- High Availability principles
 
-#### 2️⃣ [Large-Scale Critical Monitoring (CCO)](./docs/cco-monitoring.md)
-* **The Challenge:** Managing availability for **400+ distributed assets** (IoT/Cameras) with zero visibility on downtime.
-* **The Solution:** Implementation of a full Observability Stack (Grafana/Prometheus) with automated telegram alerting.
-* **Impact:** Drastic reduction in MTTR (Mean Time to Repair).
+### Infrastructure & Systems
+- Docker & Docker Compose
+- Linux
+- TCP/IP Networks
+- RTSP (IP camera streaming)
+- OT-aligned environments
 
 ---
 
-### 🎓 Certifications
-* **Azure AI Fundamentals (AI-900)** - Microsoft
-* **Cybersecurity Analyst Career Path** - Cisco
-* **Database Administration** - Fundação Bradesco
+## 📂 Engineering Case Studies
+
+### 1️⃣ Sentrio – Edge AI Monitoring System
+**Problem:** Need for automated monitoring in environments with limited connectivity.  
+**Solution:** Designed a containerized microservices architecture using YOLO (Computer Vision) and FastAPI to process RTSP streams locally (Edge-first approach).  
+**Technologies:** Python, Docker, OpenCV.  
 
 ---
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diogocarvalhodev/)
+
+### 2️⃣ Large-Scale Critical Asset Monitoring
+**Context:** Operational responsibility over 400+ distributed critical assets.  
+**Implementation:** Built an observability stack using Grafana and Prometheus with automated alerting integrations.  
+**Result:** Improved visibility, reduced manual verification cycles, and accelerated incident response (MTTR reduction).
+
+---
+
+## 🎓 Certifications
+- Microsoft Azure AI Fundamentals (AI-900)
+- Cisco Cybersecurity Career Path
+- Database Administration
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/diogocarvalhodev/)
