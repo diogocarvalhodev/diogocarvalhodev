@@ -59,4 +59,4 @@ Currently working with monitoring and reliability of 400+ distributed critical a
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/diogocarvalhodev/)
+[LinkedIn](https://www.linkedin.com/in/diogocarvalhodev/) [WhatsApp](https://wa.me/5521995579371) [Email](mailto:diogocarvalhocrf@outlook.com)
