@@ -1,62 +1,172 @@
-# Hi, I'm Diogo Carvalho 👋
-### Computer Engineer | Critical Infrastructure & Reliability Engineering
+# Diogo de Oliveira Carvalho
 
-Computer Engineer focused on designing and operating reliable systems in mission-critical environments. 
+🚀 **Full Stack Developer | Backend Python | SRE / DevOps**
+⚙️ Construindo sistemas confiáveis, observáveis e orientados a dados.
 
-My experience bridges **Operational Technology (OT)** and **modern software engineering**, with hands-on work in large-scale infrastructure monitoring, Edge Computing, and distributed systems.
+📍 Brasil | Disponível para trabalho remoto
 
-Currently working with monitoring and reliability of 400+ distributed critical assets, applying observability principles and automation to reduce operational risk and improve incident response.
-
-🌍 Based in Brazil  
-🚀 Focus Areas: Critical Infrastructure | Industrial Monitoring | Reliability Engineering | Edge Computing  
-
----
-
-## 🛠 Technical Stack
-
-### Core Engineering
-- Python (FastAPI, automation scripts)
-- APIs & integrations
-- Distributed systems fundamentals
-
-### Observability & Reliability
-- Grafana
-- Prometheus
-- Zabbix
-- Incident management (SLA-driven environments)
-- High Availability principles
-
-### Infrastructure & Systems
-- Docker & Docker Compose
-- Linux
-- TCP/IP Networks
-- RTSP (IP camera streaming)
-- OT-aligned environments
+[![GitHub](https://img.shields.io/badge/GitHub-diogocarvalhodev-181717?style=for-the-badge\&logo=github)](https://github.com/diogocarvalhodev?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogocarvalhodev-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/diogocarvalhodev)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail)](mailto:diogocarvalhocrf@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge\&logo=whatsapp)](https://wa.me/5521995579371)
 
 ---
 
-## 📂 Engineering Case Studies
+# Sobre mim
 
-### 1️⃣ Sentrio - Edge NVR Core
-**Problem:** Need for automated monitoring in environments with limited connectivity.  
-**Solution:** Designed a containerized microservices architecture using YOLO (Computer Vision) and FastAPI to process RTSP streams locally (Edge-first approach).  
-**Technologies:** Python, Docker, OpenCV.  
+Sou engenheiro de software com experiência em **infraestrutura crítica, automação operacional e desenvolvimento de sistemas backend de alta confiabilidade**.
 
----
+Atualmente atuo na construção de ferramentas que:
 
-### 2️⃣ Large-Scale Critical Asset Monitoring
-**Context:** Operational responsibility over 400+ distributed critical assets.  
-**Implementation:** Built an observability stack using Grafana and Prometheus with automated alerting integrations.  
-**Result:** Improved visibility, reduced manual verification cycles, and accelerated incident response (MTTR reduction).
+* automatizam operações
+* melhoram **observabilidade**
+* reduzem **tempo de resposta a incidentes**
+* aumentam **disponibilidade de sistemas**
 
----
+Tenho forte foco em:
 
-## 🎓 Certifications
-- Microsoft Azure AI Fundamentals (AI-900)
-- Cisco Cybersecurity Career Path
-- Database Administration
+* **Python backend engineering**
+* **SRE e observabilidade**
+* **arquitetura de APIs**
+* **sistemas distribuídos**
 
 ---
 
-## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/diogocarvalhodev/) [WhatsApp](https://wa.me/5521995579371) [Email](mailto:diogocarvalhocrf@outlook.com)
+# Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=next.js)
+![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge\&logo=tailwind-css)
+
+### Databases
+
+![Postgres](https://img.shields.io/badge/postgresql-336791?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge\&logo=redis)
+
+### DevOps / SRE
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge\&logo=linux)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge\&logo=grafana)
+
+### AI / Computer Vision
+
+* Ultralytics YOLOv8
+* Edge Video Processing
+* Real-time detection pipelines
+
+---
+
+# Projetos em Destaque
+
+## Sistema CCO — Gestão de Incidentes Escolares
+
+SaaS B2B/Governo para o Centro de Controle Operacional da Secretaria de Educação.
+
+Stack:
+
+* FastAPI
+* Next.js
+* React
+* PostgreSQL
+* Docker
+* JWT Auth
+
+Funcionalidades:
+
+* dashboards operacionais
+* relatórios automatizados em PDF
+* gestão de incidentes em tempo real
+
+---
+
+## Sentrio — Intelligent Edge NVR
+
+Sistema de **monitoramento inteligente com visão computacional na borda (Edge Computing)**.
+
+Stack:
+
+* FastAPI
+* YOLOv8
+* React
+* Redis
+* PostgreSQL
+* WebSockets
+
+Capacidades:
+
+* detecção em tempo real
+* processamento distribuído
+* streaming de eventos
+
+---
+
+## Industrial Telemetry Stack
+
+Stack completa de **observabilidade para ambientes industriais simulados**.
+
+Componentes:
+
+* Python metrics exporter
+* Prometheus
+* Grafana
+* Docker provisioning
+* Infrastructure as Code
+
+---
+
+# Experiência em Engenharia
+
+### Software Engineer / SRE — Prefeitura de Mesquita
+
+Responsável por infraestrutura crítica distribuída com **mais de 416 ativos monitorados**.
+
+Principais contribuições:
+
+* arquitetura de **stack de observabilidade com Prometheus + Grafana**
+* automação de alertas com **Telegram API**
+* monitoramento operacional em tempo real
+* automação de processos com Python
+
+---
+
+# Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogocarvalhodev\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarvalhodev\&layout=compact\&theme=tokyonight)
+
+---
+
+# Formação
+
+🎓 **Engenharia da Computação**
+Universidade Cândido Mendes
+Previsão de conclusão: 2025
+
+---
+
+# Certificações
+
+* Microsoft Azure AI Fundamentals (AI-900)
+* Cisco Junior Cybersecurity Analyst
+* Power BI Express
+
+---
+
+# Idiomas
+
+🇺🇸 Inglês — leitura técnica avançada
+(em evolução para fluência profissional)
+
+---
+
+⭐ Sempre aberto para colaborar em **projetos open source, sistemas distribuídos e infraestrutura escalável**.
