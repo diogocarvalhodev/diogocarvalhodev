@@ -65,7 +65,7 @@ Sistema de monitoramento de endpoints com descoberta automática, coleta de mét
 Python • Prometheus • Grafana • Docker • SQLite
 
 🔗 Repositório:
-https://github.com/diogocarvalhodev/observability-edge-stack
+https://github.com/diogocarvalhodev/sentinela-de-rede
 
 ---
 
