@@ -1,132 +1,143 @@
 # Diogo Carvalho
 
-Software Engineer | Backend (Python) | SRE / DevOps | Distributed Systems
+**Software Engineer | Backend (Python) | SRE / DevOps | Distributed Systems**
 
-I specialize in building reliable backend systems and data-driven platforms that power critical infrastructure. My work sits at the intersection of **software engineering, observability, and operational reliability**, focusing on automation, incident response and high-availability systems.
+Engenheiro de software especializado na construção de sistemas backend confiáveis e plataformas orientadas a dados para ambientes de missão crítica.
 
-Currently working with **distributed infrastructure environments**, monitoring more than **400+ operational assets**, automating incident response workflows and building internal software platforms.
+Atuo na interseção entre **engenharia de software, observabilidade e confiabilidade (SRE)**, desenvolvendo soluções que automatizam operações, aumentam visibilidade e reduzem o tempo de resposta a incidentes.
+
+Atualmente trabalhando com **infraestrutura distribuída**, monitorando mais de **400+ ativos críticos**, automatizando workflows operacionais e construindo plataformas internas.
 
 ---
 
-# Featured Engineering Projects
+# 🚀 Projetos em Destaque
 
-## OpsCenter — Incident Management Platform
-SaaS platform designed to manage operational incidents in distributed environments.
+## 🧠 OpsCenter — Incident Management Platform *(em evolução)*
 
-**Key Features**
-- FastAPI backend with JWT authentication
-- Real-time dashboards with React + Next.js
-- Automated PDF reporting
-- Containerized deployment with Docker
-- PostgreSQL data persistence
+Plataforma SaaS para gestão de incidentes operacionais em ambientes distribuídos.
+
+**Principais funcionalidades**
+
+* Backend em FastAPI com autenticação JWT
+* Dashboards em tempo real (React + Next.js)
+* Geração automatizada de relatórios em PDF
+* Deploy containerizado com Docker
+* Persistência em PostgreSQL
 
 **Stack**
 Python • FastAPI • React • Next.js • Docker • PostgreSQL
 
 ---
 
-## Sentrio — Edge AI Video Monitoring System
-Edge computing system for real-time intelligent video monitoring.
+## 🎥 Sentrio — Edge AI Video Monitoring System
 
-**Key Features**
-- Real-time object detection with YOLOv8
-- Event streaming through WebSockets
-- Asynchronous architecture for low latency
-- Redis caching and PostgreSQL persistence
+Sistema de monitoramento inteligente com processamento na borda e detecção em tempo real.
+
+**Principais funcionalidades**
+
+* Detecção de objetos em tempo real com YOLOv8
+* Notificações via WebSockets
+* Arquitetura assíncrona para baixa latência
+* Redis para comunicação em tempo real
+* Persistência com PostgreSQL
 
 **Stack**
-
 Python • FastAPI • YOLOv8 • Redis • PostgreSQL • WebSockets
 
-Repository:
+🔗 Repositório:
 https://github.com/diogocarvalhodev/sentrio-edge-nvr-core
 
 ---
 
-## Industrial Telemetry Stack
-Observability infrastructure simulating industrial mission-critical environments.
+## 📡 Sentinela de Rede — Network Monitoring & Observability System
 
-**Key Features**
+Sistema de monitoramento de endpoints com descoberta automática, coleta de métricas e dashboards operacionais.
 
-- Custom Python exporters for telemetry collection
-- Prometheus metrics aggregation
-- Grafana dashboards for real-time monitoring
-- Zero-touch environment provisioning using Docker
+**Principais funcionalidades**
+
+* Descoberta inteligente de dispositivos na rede
+* Exportação de métricas para Prometheus
+* Dashboards prontos em Grafana
+* Persistência local com SQLite
+* Deploy simplificado com Docker Compose
 
 **Stack**
+Python • Prometheus • Grafana • Docker • SQLite
 
-Python • Prometheus • Grafana • Docker • Observability
-
-Repository:
+🔗 Repositório:
 https://github.com/diogocarvalhodev/observability-edge-stack
 
 ---
 
-# Engineering Focus
+# 🧠 Áreas de Atuação
 
-My main areas of interest:
-
-• Backend engineering with Python  
-• Distributed systems  
-• Site Reliability Engineering (SRE)  
-• Observability platforms  
-• Infrastructure automation  
-• Edge computing systems  
+* Backend Engineering (Python)
+* Sistemas Distribuídos
+* Site Reliability Engineering (SRE)
+* Observabilidade
+* Automação de Infraestrutura
+* Edge Computing
 
 ---
 
-# Technology Stack
+# ⚙️ Stack Tecnológica
 
-### Backend
+### Backend & APIs
 
-Python  
-FastAPI  
-REST APIs  
-WebSockets  
-
-### Databases
-
-PostgreSQL  
-Redis  
-
-### DevOps & Infrastructure
-
-Docker  
-Linux  
-Prometheus  
-Grafana  
-Infrastructure as Code
+Python • FastAPI • REST APIs • JWT • WebSockets • Microsserviços • Arquitetura de Sistemas Distribuídos
 
 ### Frontend
 
-React  
-Next.js  
-TailwindCSS  
+React 18 • Next.js 14 • Tailwind CSS • Zustand • Angular (familiaridade)
 
-### Artificial Intelligence
+### Banco de Dados
 
-Ultralytics YOLOv8  
-Edge AI Processing
+PostgreSQL 15 • Redis • SQLAlchemy • Bancos Relacionais e NoSQL
+
+### Cloud & Containers
+
+AWS • Docker • Kubernetes (conceitos) • Cloud (GCP e Azure - conceitos)
+
+### DevOps / SRE & Observabilidade
+
+Prometheus • Grafana • Linux • CI/CD Pipelines (GitHub Actions) • Automação de Deploy
+
+### Infrastructure as Code
+
+Terraform • Docker Compose
+
+### Mensageria & Streaming
+
+RabbitMQ (conceitos)
+
+### Testes & Qualidade
+
+Pytest • Testes Unitários • Testes de Integração
+
+### Ferramentas & IA
+
+Git • YOLOv8 (Ultralytics)
 
 ---
 
-# Professional Experience
+# 💼 Experiência Profissional
 
-### Software Engineer / SRE  
-Prefeitura de Mesquita — SEMED
+### Software Engineer / SRE
 
-Responsible for the operational reliability of a distributed infrastructure environment containing **416+ critical assets**.
+Prefeitura de Mesquita — Secretaria Municipal de Educação
 
-Key contributions:
+Responsável pela confiabilidade operacional de uma infraestrutura distribuída com **416+ ativos críticos**.
 
-• Designed and implemented an **observability stack using Prometheus and Grafana**  
-• Automated operational monitoring and incident alerts using **Python and Telegram API**  
-• Diagnosed complex network incidents in distributed environments  
-• Reduced manual verification processes through automation
+**Principais contribuições**
+
+* Arquitetura e implementação de stack de observabilidade com Prometheus e Grafana
+* Automação de monitoramento e alertas utilizando Python e integração com API do Telegram
+* Diagnóstico e resolução de incidentes em ambientes distribuídos
+* Redução de processos manuais através de automação
 
 ---
 
-# GitHub Statistics
+# 📊 Estatísticas do GitHub
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogocarvalhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -135,28 +146,28 @@ Key contributions:
 
 ---
 
-# Education
+# 🎓 Formação
 
-Bachelor's Degree in Computer Engineering  
-Universidade Cândido Mendes — Completed December 2025
-
----
-
-# Certifications
-
-Microsoft Azure AI Fundamentals (AI-900)  
-Cisco Junior Cybersecurity Analyst  
+Bacharelado em Engenharia da Computação
+Universidade Cândido Mendes — Conclusão em Dez/2025
 
 ---
 
-# Contact
+# 📜 Certificações
 
-LinkedIn  
+Microsoft Azure AI Fundamentals (AI-900)
+Cisco Junior Cybersecurity Analyst
+
+---
+
+# 📫 Contato
+
+🔗 LinkedIn
 https://www.linkedin.com/in/diogocarvalhodev
 
-Email  
+📧 Email
 mailto:diogocarvalhocrf@outlook.com
 
 ---
 
-Always open to discussing **software architecture, distributed systems, observability and remote engineering opportunities.**
+💬 Aberto a oportunidades e discussões sobre **backend, sistemas distribuídos, observabilidade e engenharia de software em escala.**
