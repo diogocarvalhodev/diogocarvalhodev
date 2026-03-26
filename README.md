@@ -140,8 +140,8 @@ Responsável pela confiabilidade operacional de uma infraestrutura distribuída 
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogocarvalhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarvalhodev&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogocarvalhodev&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarvalhodev&layout=compact"/>
 </p>
 
 ---
