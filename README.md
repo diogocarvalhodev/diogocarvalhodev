@@ -2,38 +2,34 @@
 
 **Software Engineer | Backend (Python) | SRE / DevOps | Distributed Systems**
 
-Engenheiro de software especializado na construção de sistemas backend confiáveis e plataformas orientadas a dados para ambientes de missão crítica.
+Engenheiro de software especializado na construção de **sistemas backend confiáveis e plataformas orientadas a dados** para ambientes de missão crítica.
 
 Atuo na interseção entre **engenharia de software, observabilidade e confiabilidade (SRE)**, desenvolvendo soluções que automatizam operações, aumentam visibilidade e reduzem o tempo de resposta a incidentes.
 
-Atualmente trabalhando com **infraestrutura distribuída**, monitorando mais de **400+ ativos críticos**, automatizando workflows operacionais e construindo plataformas internas.
+Atualmente trabalho com **infraestrutura distribuída**, monitorando mais de **400+ ativos críticos**, automatizando workflows operacionais e construindo plataformas internas voltadas para confiabilidade e eficiência operacional.
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🧠 Engineering Focus
 
-## 🧠 OpsCenter — Incident Management Platform *(em evolução)*
-
-Plataforma SaaS para gestão de incidentes operacionais em ambientes distribuídos.
-
-**Principais funcionalidades**
-
-* Backend em FastAPI com autenticação JWT
-* Dashboards em tempo real (React + Next.js)
-* Geração automatizada de relatórios em PDF
-* Deploy containerizado com Docker
-* Persistência em PostgreSQL
-
-**Stack**
-Python • FastAPI • React • Next.js • Docker • PostgreSQL
+* Backend Engineering com Python
+* Sistemas Distribuídos
+* Site Reliability Engineering (SRE)
+* Observabilidade e Monitoramento
+* Automação de Infraestrutura
+* Edge Computing
 
 ---
+
+# 🚀 Featured Projects
 
 ## 🎥 Sentrio — Edge AI Video Monitoring System
 
-Sistema de monitoramento inteligente com processamento na borda e detecção em tempo real.
+Sistema de monitoramento inteligente com processamento na borda e detecção de eventos em tempo real.
 
-**Principais funcionalidades**
+Projetado para reduzir fadiga operacional e transformar vídeo contínuo em eventos acionáveis.
+
+**Highlights**
 
 * Detecção de objetos em tempo real com YOLOv8
 * Notificações via WebSockets
@@ -44,83 +40,103 @@ Sistema de monitoramento inteligente com processamento na borda e detecção em 
 **Stack**
 Python • FastAPI • YOLOv8 • Redis • PostgreSQL • WebSockets
 
-🔗 Repositório:
-https://github.com/diogocarvalhodev/sentrio-edge-nvr-core
+🔗 https://github.com/diogocarvalhodev/sentrio-edge-nvr-core
 
 ---
 
-## 📡 Sentinela de Rede — Network Monitoring & Observability System
+## 📡 Sentinela de Rede — Observability & Monitoring Platform
 
 Sistema de monitoramento de endpoints com descoberta automática, coleta de métricas e dashboards operacionais.
 
-**Principais funcionalidades**
+Inspirado em cenários reais de infraestrutura onde visibilidade e tempo de resposta são críticos.
 
-* Descoberta inteligente de dispositivos na rede
+**Highlights**
+
+* Descoberta inteligente de dispositivos
 * Exportação de métricas para Prometheus
-* Dashboards prontos em Grafana
+* Dashboards operacionais em Grafana
 * Persistência local com SQLite
 * Deploy simplificado com Docker Compose
 
 **Stack**
 Python • Prometheus • Grafana • Docker • SQLite
 
-🔗 Repositório:
-https://github.com/diogocarvalhodev/sentinela-de-rede
+🔗 https://github.com/diogocarvalhodev/sentinela-de-rede
 
 ---
 
-# 🧠 Áreas de Atuação
+## 🧩 NexoCase — Incident Management for Operational Environments
 
-* Backend Engineering (Python)
-* Sistemas Distribuídos
-* Site Reliability Engineering (SRE)
-* Observabilidade
-* Automação de Infraestrutura
-* Edge Computing
+Sistema de gestão de incidentes projetado para ambientes como shoppings, condomínios e instituições educacionais.
+
+Centraliza o ciclo de vida de ocorrências, melhorando rastreabilidade e organização operacional.
+
+**Highlights**
+
+* Registro e acompanhamento estruturado de incidentes
+* Classificação por tipo, severidade e status
+* Histórico auditável de ocorrências
+* Interface web para operação e análise
+
+**Stack**
+Python • FastAPI • React • Next.js • PostgreSQL • Docker
+
+🔗 https://github.com/diogocarvalhodev/nexocase
+---
+
+# 🧠 Systems Perspective
+
+Meus projetos refletem uma abordagem integrada de engenharia:
+
+* **Detecção de eventos** → Sentrio
+* **Monitoramento e observabilidade** → Sentinela
+* **Gestão de incidentes** → NexoCase / OpsCenter
+
+Essa combinação representa a construção de **plataformas operacionais completas**, inspiradas em ambientes reais de missão crítica.
 
 ---
 
-# ⚙️ Stack Tecnológica
+# ⚙️ Technology Stack
 
 ### Backend & APIs
 
-Python • FastAPI • REST APIs • JWT • WebSockets • Microsserviços • Arquitetura de Sistemas Distribuídos
+Python • FastAPI • REST APIs • JWT • WebSockets • Microsserviços • Sistemas Distribuídos
 
 ### Frontend
 
 React 18 • Next.js 14 • Tailwind CSS • Zustand • Angular (familiaridade)
 
-### Banco de Dados
+### Databases
 
-PostgreSQL 15 • Redis • SQLAlchemy • Bancos Relacionais e NoSQL
+PostgreSQL 15 • Redis • SQLAlchemy • Relational & NoSQL
 
 ### Cloud & Containers
 
-AWS • Docker • Kubernetes (conceitos) • Cloud (GCP e Azure - conceitos)
+AWS • Docker • Kubernetes (conceitos) • GCP / Azure (conceitos)
 
-### DevOps / SRE & Observabilidade
+### DevOps / SRE
 
-Prometheus • Grafana • Linux • CI/CD Pipelines (GitHub Actions) • Automação de Deploy
+Prometheus • Grafana • Linux • CI/CD (GitHub Actions) • Automação de Deploy
 
 ### Infrastructure as Code
 
 Terraform • Docker Compose
 
-### Mensageria & Streaming
+### Messaging
 
 RabbitMQ (conceitos)
 
-### Testes & Qualidade
+### Testing
 
-Pytest • Testes Unitários • Testes de Integração
+Pytest • Testes Unitários • Integração
 
-### Ferramentas & IA
+### AI & Tools
 
 Git • YOLOv8 (Ultralytics)
 
 ---
 
-# 💼 Experiência Profissional
+# 💼 Professional Experience
 
 ### Software Engineer / SRE
 
@@ -128,39 +144,39 @@ Prefeitura de Mesquita — Secretaria Municipal de Educação
 
 Responsável pela confiabilidade operacional de uma infraestrutura distribuída com **416+ ativos críticos**.
 
-**Principais contribuições**
+**Key Contributions**
 
 * Arquitetura e implementação de stack de observabilidade com Prometheus e Grafana
-* Automação de monitoramento e alertas utilizando Python e integração com API do Telegram
+* Automação de monitoramento e alertas com Python e integração com API do Telegram
 * Diagnóstico e resolução de incidentes em ambientes distribuídos
 * Redução de processos manuais através de automação
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=diogocarvalhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarvalhodev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diogocarvalhodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diogocarvalhodev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🎓 Formação
+# 🎓 Education
 
 Bacharelado em Engenharia da Computação
-Universidade Cândido Mendes — Conclusão em Dez/2025
+Universidade Cândido Mendes — Dez/2025
 
 ---
 
-# 📜 Certificações
+# 📜 Certifications
 
 Microsoft Azure AI Fundamentals (AI-900)
 Cisco Junior Cybersecurity Analyst
 
 ---
 
-# 📫 Contato
+# 📫 Contact
 
 🔗 LinkedIn
 https://www.linkedin.com/in/diogocarvalhodev
@@ -170,4 +186,4 @@ mailto:diogocarvalhocrf@outlook.com
 
 ---
 
-💬 Aberto a oportunidades e discussões sobre **backend, sistemas distribuídos, observabilidade e engenharia de software em escala.**
+💬 Aberto a oportunidades e discussões sobre **backend, sistemas distribuídos, observabilidade e engenharia de software em ambientes de alta criticidade.**
