@@ -1,87 +1,46 @@
-# Diogo Carvalho | Backend Engineer com foco em sistemas críticos, observabilidade e segurança
+# Diogo Carvalho
 
-Engenheiro de Computação que projeta e entrega aplicações reais de monitoramento, gestão de incidentes e operações orientadas a dados.
+**Backend Python Developer | FastAPI • PostgreSQL • Docker**
 
-Meu diferencial é unir backend robusto, visão operacional e segurança aplicada para construir produtos que funcionam sob pressão e são fáceis de operar.
+Engenheiro de Computação com foco em desenvolvimento backend, APIs REST, integrações, automação e observabilidade.
 
-## Resumo Estratégico
+Desenvolvo soluções para problemas operacionais reais, combinando arquitetura de software, segurança, confiabilidade e experiência prática em ambientes de monitoramento.
 
-- Desenvolvimento de sistemas completos com FastAPI, React/Next.js, PostgreSQL e Docker
-- Experiência prática em arquitetura de monitoramento, resposta a incidentes e fluxos auditáveis
-- Forte orientação para confiabilidade, rastreabilidade e deploy reproduzível
-- Interesse em oportunidades de Backend ou Full Stack com foco em produtos B2B, segurança e observabilidade
+## Projetos em destaque
 
-## Projetos em Destaque
+### NexoCase — Gestão de incidentes
+Aplicação full stack para gerenciamento de incidentes, autenticação, controle de acesso, auditoria e acompanhamento operacional.
 
-### NexoCase Demo | Plataforma de gestão de incidentes
+**Stack:** FastAPI, Next.js, PostgreSQL, SQLAlchemy e Docker.
 
-Repositório: [nexocase-demo](https://github.com/diogocarvalhodev/nexocase-demo)
+[Repositório](https://github.com/diogocarvalhodev/nexocase-demo) | [Demo](https://nexocase-demo.vercel.app/)
 
-Plataforma full stack para centralizar o ciclo de vida de incidentes, com autenticação, fluxos por perfil, dashboards e trilha operacional.
+### Sentinela de Rede — Monitoramento e observabilidade
+Sistema de descoberta e monitoramento de endpoints, com persistência de estado, métricas Prometheus e dashboards Grafana.
 
-Impacto percebido para negócio e operação:
+**Stack:** Python, SQLite, Prometheus, Grafana e Docker.
 
-- Reduz dispersão operacional ao concentrar abertura, triagem e acompanhamento em um único fluxo
-- Aumenta governança com controles de acesso, auditoria e visibilidade de retenção
-- Demonstra prontidão de produto com execução local via Docker e modo showcase para demonstração rápida
+[Repositório](https://github.com/diogocarvalhodev/sentinela-de-rede)
 
-### Sentinela de Rede | Observabilidade de endpoints em tempo real
+### SentinelEdge — Monitoramento de segurança
+Plataforma demonstrativa para gestão de alertas, câmeras e eventos com atualização em tempo real.
 
-Repositório: [sentinela-de-rede](https://github.com/diogocarvalhodev/sentinela-de-rede)
+**Stack:** Python, FastAPI, React, PostgreSQL, Redis e WebSocket.
 
-Sistema de descoberta e monitoramento contínuo de ativos de rede com exportação de métricas para Prometheus e dashboards no Grafana.
+[Repositório](https://github.com/diogocarvalhodev/sentineledge-security-monitoring) | [Demo](https://sentineledge-security-monitoring.vercel.app/)
 
-Impacto percebido para operação:
+## Competências técnicas
 
-- Melhora tempo de diagnóstico com telemetria centralizada e visualização contínua
-- Evita retrabalho com persistência de estado e ciclo de discovery inteligente
-- Mostra capacidade de engenharia para ambientes de missão crítica e operação contínua
+**Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, APIs REST.
 
-### SentinelEdge Security Monitoring | Monitoramento de segurança com alertas em tempo real
+**Frontend:** React, Next.js, TypeScript.
 
-Repositório: [sentineledge-security-monitoring](https://github.com/diogocarvalhodev/sentineledge-security-monitoring)
+**Infraestrutura e observabilidade:** Docker, Linux, Prometheus, Grafana, GitHub Actions.
 
-Plataforma de monitoramento de segurança inspirada em produção, com backend FastAPI, frontend React, WebSocket e suporte a IA opcional.
+## Objetivo profissional
 
-Impacto percebido para times de segurança e operações:
-
-- Estrutura o ciclo de alertas do evento até a confirmação
-- Oferece visibilidade operacional com dashboard, mapas e relatórios
-- Demonstra maturidade de engenharia com threat model, runbook e pipeline de CI
-
-## Stack Tecnológica
-
-### Backend e Dados
-
-- Python
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- Redis
-- SQLite
-
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-### Infra, Observabilidade e Operação
-
-- Docker
-- Docker Compose
-- Prometheus
-- Grafana
-- GitHub Actions
-
-## O que estou buscando
-
-Atuar como desenvolvedor Backend ou Full Stack em times que valorizem arquitetura sólida, entrega contínua e produto com impacto real.
-
-Preferência por ambientes com alta exigência técnica, autonomia e perspectiva de crescimento profissional e remuneração competitiva.
+Busco oportunidades em desenvolvimento Backend Python, contribuindo com soluções confiáveis, bem estruturadas e orientadas a problemas reais.
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/diogocarvalhodev](https://www.linkedin.com/in/diogocarvalhodev/)
-- E-mail: diogocarvalhocrf@outlook.com
+[LinkedIn](https://www.linkedin.com/in/diogocarvalhodev/) | diogocarvalhocrf@outlook.com
